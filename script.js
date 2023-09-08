@@ -40,8 +40,7 @@ function init() {
 	ScrollTrigger.refresh();
 }
 
-// init();
-
+init();
 
 function circleMouseFolower(x, y) {
 	let width = x / 2;
